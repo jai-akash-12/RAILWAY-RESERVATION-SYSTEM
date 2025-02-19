@@ -112,7 +112,7 @@ def checking_1():
     age = input('YOUR AGE: ')
     
     gender_dict = {'m': 'MALE', 'f': 'FEMALE', 'n': 'NOT TO MENTION'}
-    
+
     if b == c:
         user_entry = {'fname': f, 'lname': l, 'user_name': a, 'password': b, 'phno': ph, 'gender': gender_dict.get(gen.lower(), 'NOT TO MENTION'), 'dob': dob, 'age': age}
         user_accounts_data.append(user_entry)
