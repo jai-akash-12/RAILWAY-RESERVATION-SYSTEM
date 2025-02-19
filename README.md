@@ -51,7 +51,7 @@ def main():
         ch = int(input('ENTER YOUR CHOICE: '))
         
         if ch == 1:
-            ticket_booking()
+            ticket_booking() 
         elif ch == 2:
             ticket_checking()
         elif ch == 3:
