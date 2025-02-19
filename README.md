@@ -6,7 +6,7 @@ def menu():
     while True:
         print('1. YES')
         print('2. NO')
-        ch = int(input('DO YOU WANT TO CONTINUE OR NOT: '))
+        ch = int(input('DO YOU WANT TO CONTINUE OR NOT: ')) 
         
         if ch != 1:
             print('THANK YOU')
