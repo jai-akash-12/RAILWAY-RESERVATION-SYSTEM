@@ -147,7 +147,7 @@ def checking_2():
                 del user_accounts_data[i]
                 return True
             elif vi == 2:
-                print('SORRY, RETRY')
+                print('SORRY, RETRY') 
     print('ACCOUNT DOES NOT EXIST')
     return False
 
