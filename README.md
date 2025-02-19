@@ -12,7 +12,7 @@ def menu():
             print('THANK YOU')
             break
         
-        print('WELCOME TO ONLINE RAILWAY RESERVATION SYSTEM')
+        print('WELCOME TO ONLINE RAILWAY RESERVATION SYSTEM') 
         print('1. SIGN IN')
         print('2. SIGN UP')
         print('3. DELETE ACCOUNT')
