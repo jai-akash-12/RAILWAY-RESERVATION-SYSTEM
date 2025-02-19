@@ -58,7 +58,7 @@ def main():
             ticket_cancelling()
         elif ch == 4:
             checking_3()
-        elif ch == 5:
+        elif ch == 5: 
             print('THANK YOU')
             break
         else:
