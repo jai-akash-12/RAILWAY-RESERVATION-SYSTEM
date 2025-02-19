@@ -2,7 +2,7 @@
 railway_data = []
 user_accounts_data = []
 
-def menu():
+def menu(): 
     while True:
         print('1. YES')
         print('2. NO')
